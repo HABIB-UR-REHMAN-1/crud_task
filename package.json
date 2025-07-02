@@ -1,0 +1,25 @@
+{
+  "name": "crud_task",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HABIB-UR-REHMAN-1/crud_task.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HABIB-UR-REHMAN-1/crud_task/issues"
+  },
+  "homepage": "https://github.com/HABIB-UR-REHMAN-1/crud_task#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.16.1",
+    "nodemon": "^3.1.10"
+  }
+}
